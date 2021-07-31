@@ -1,0 +1,75 @@
+
+*{
+  margin-left: 0%;
+  margin-top: 0%;
+  padding-left: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.bgtop{
+  background-color: #355876;
+  padding: 40px;
+}
+
+.bgtop h3{
+  color: antiquewhite;
+  font-size: 30px;
+  margin: 0px;
+}
+
+.bdy{
+  padding-bottom: 10%;
+}
+
+.blog{
+  width: 60%;
+  margin: auto;
+  padding-top: 5%;
+}
+
+.bhead{
+  background-color: rgba(255, 255, 255, 0.844);
+}
+
+.bhead h2{
+  font-size: 46px;
+  font-weight: 700;
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgba(41, 41, 41, 1)
+}
+
+strong{
+  font-size: 21px;
+  color: rgb(53, 53, 53);
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 10px;
+}
+
+.text p{
+  font-size: 21px;
+  color: rgb(97, 96, 96);
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.text img{
+  width: 100%;
+  padding: 30px 0px;
+}
+
+.bhead img{
+  width: 100%;
+}
+
+.footer{
+  background-color: #000000cc;
+  padding: 150px 0px;
+  width: 100%;
+}
+
+.footer h2{
+  font-size: 30px;
+  color: aliceblue;
+  text-align: center;
+}
